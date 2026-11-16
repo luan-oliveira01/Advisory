@@ -345,7 +345,7 @@ WHERE parcel_id REGEXP '<|onerror|onload|onmouseover|javascript:';
 
 ## 15. Credits
 
-- **Researcher:** oliveira.luanalmeida@gmail.com / {TEAM_NAME}
+- **Researcher:** Luan Oliveira Ferreira de Almeida / Carlos Tuma / Thiago Smith
 - **Organization:** Independent Security Research (RedScan Academy — CVE2 course)
 - **Contact:** oliveira.luanalmeida@gmail.com / {TEAM_NAME}
 
