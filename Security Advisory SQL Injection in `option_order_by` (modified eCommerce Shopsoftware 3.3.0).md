@@ -291,9 +291,9 @@ grep -Ei "(SLEEP|SELECT|UNION|information_schema|IF\()" access.log | grep "produ
 
 ## 15. Credits
 
-- **Researcher:** vinniboy021 (@vinniboy021)
+- **Researcher:** Luan Oliveira Ferreira de Almeida
 - **Organization:** Independent security researcher
-- **Contact:** vinniboy021@gmail.com / https://github.com/vinniboy021
+- **Contact:** oliveira.luanalmeida@gmail.com / https://github.com/luan-oliveira01/Advisory
 
 ---
 
@@ -324,5 +324,5 @@ The information was obtained in an authorized environment and disclosed responsi
 
 ## 19. Contact
 
-- **Email:** vinniboy021@gmail.com
-- **Repository:** https://github.com/vinniboy021/agent-cve-hunter
+- **Email:** oliveira.luanalmeida@gmail.com
+- **Repository:** https://github.com/luan-oliveira01/Advisory
