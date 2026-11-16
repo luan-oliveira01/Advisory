@@ -291,7 +291,7 @@ grep -Ei "(SLEEP|SELECT|UNION|information_schema|IF\()" access.log | grep "produ
 
 ## 15. Credits
 
-- **Researcher:** Luan Oliveira Ferreira de Almeida
+- **Researcher:**  Luan Oliveira Ferreira de Almeida / Carlos Tuma / Thiago Smith
 - **Organization:** Independent security researcher
 - **Contact:** oliveira.luanalmeida@gmail.com / https://github.com/luan-oliveira01/Advisory
 
